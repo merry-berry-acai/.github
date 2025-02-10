@@ -20,7 +20,7 @@ Welcome to the official GitHub Organization for Merry Berry - a full-stack solut
 |------------|-------------|--------|
 | [merry-berry/client](https://github.com/merry-berry-acai/client) | Progressive Web App (React) | In Development ⚙️ |
 | [merry-berry/server](https://github.com/merry-berry-acai/server) | API (Node.js) | In Development ⚙️ |
-| [merry-berry/docs](https://github.com/merry-berry-acai/docs) | Technical Documentation | Maintained 📚 |
+| [merry-berry/docs](https://github.com/merry-berry-acai/T3A2-Part-A) | Technical Documentation | Maintained 📚 |
 
 ## 🚀 Getting Started
 
